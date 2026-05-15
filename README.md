@@ -26,15 +26,11 @@ Atualmente:
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriPereira20&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=YuriPereira20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriPereira20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YuriPereira20&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
